@@ -1,6 +1,4 @@
-# charliegleason.com
-
-The new [charliegleason.com](http://charliegleason.com), which uses Harp, Gulp and BrowserSync.
+# Forked From charliegleason.com
 
 You can find out more about the set up here:
 http://charliegleason.com/articles/harp-gulp-and-browsersync
