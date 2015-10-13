@@ -59,10 +59,10 @@ gulp.task('build', function () {
 /**
  * Push build to gh-pages
  */
-gulp.task('deploy', ['build'], function () {
-  return gulp.src("./dist/**/*")
-    .pipe(deploy())
-});
+// gulp.task('deploy', ['build'], function () {
+//   return gulp.src("./dist/**/*")
+//     .pipe(deploy())
+// });
 
 /**
  * Default task, running `gulp` will fire up the Harp site,
